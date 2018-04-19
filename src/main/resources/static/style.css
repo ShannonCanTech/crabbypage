@@ -13,3 +13,9 @@
 .bold {
     font-weight: bold;
 }
+
+img {
+    width: 80%;
+    height: auto;
+    size: 20px;
+}
